@@ -1,0 +1,71 @@
+#pic{
+             max-width: fit-content;
+}
+
+.pics {
+  background-image: url('brach.jpeg');
+  background-repeat: no-repeat; 
+  background-position: top center;
+  background-size: cover; 
+  height: 200px;
+  width: 100%;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+  
+  
+}
+.container{
+              margin: 150px auto;
+             
+              width: 290px;
+              border: 2px solid grey;
+              border-radius: 8px;
+}
+#lock{
+              background-position: top left;
+              height: 17px;
+              margin-top: 20px;
+              margin-left: 15px;
+              
+              
+}
+#text{
+              font-size: 11px;
+              font-family: sans-serif;
+              color: #6B7280;
+              font-weight: 650;
+              margin-bottom: 15px;
+              margin-top: 15px;
+              
+              
+}
+.font{
+              font-family: sans-serif;
+}
+#get{
+              font-weight: 400;
+              font-size: 20px;
+              margin-left: 15px;
+              margin-right: 15px;
+              margin-bottom: 15px;
+              margin-top: 15px;
+}
+#bring{
+              color: #6B7280;
+              font-size: 12px;
+              margin-left: 15px;
+              margin-right: 15px;
+}
+#button{
+              margin-left: 15px;
+              margin-bottom: 15px;
+              
+              color: blue;
+              padding: 5px 10px;
+              border-radius: 5px;
+              border: 1px solid #6B7280 ;
+              background-color: white;
+              font-weight: 750;
+              
+              
+}

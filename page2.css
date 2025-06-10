@@ -1,0 +1,41 @@
+.container{
+              margin: 180px auto;
+              width: 500px;
+              padding: 20px;
+              border: 10px solid white;
+              border-radius: 8px;
+              border: 3px solid grey;
+}
+*{
+              box-sizing: border-box;
+}
+.font{
+              font-family: sans-serif;
+}
+#first{
+              font-family: sans-serif;
+              margin-bottom: 15px;
+}
+#second{
+              margin-bottom: 1px;
+              color:#6B7280 ;
+}
+#third{
+              color: #6B7280;
+}
+.pic{
+              border-radius: 100%;
+              height: 70px;
+              margin-top: 30px;
+              margin-bottom: 30px;
+}
+#end{
+              color: blue;
+              /* font-weight: 900px; */
+              font: bold;
+              
+              
+}
+#end:hover{
+              cursor: pointer;
+}
